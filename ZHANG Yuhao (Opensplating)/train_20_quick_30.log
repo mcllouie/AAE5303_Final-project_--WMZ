@@ -1,0 +1,57 @@
+Using CPU
+Reading 3343 points
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132926.098563936.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132927.596460936.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132929.098221941.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132930.596121707.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132932.098728531.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132933.596540070.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132935.098352319.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132934.098443928.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132935.596309440.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132929.597191153.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132931.097986090.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132926.596775653.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132932.596739377.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132928.098651691.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132930.099084195.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132934.596423501.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132931.596887277.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132927.098722735.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132928.596312430.jpg
+Loading /home/userchang/OpenSplat/data/HKisland_20_colmap/images/1658132933.098693087.jpg
+Step 1: 0.27982 (3%)
+Step 2: 0.264537 (6%)
+Step 3: 0.260615 (10%)
+Step 4: 0.256003 (13%)
+Step 5: 0.267307 (16%)
+Step 6: 0.243618 (20%)
+Step 7: 0.243345 (23%)
+Step 8: 0.24386 (26%)
+Step 9: 0.23061 (30%)
+Step 10: 0.242447 (33%)
+Wrote /home/userchang/OpenSplat/output/hkisland_20_quick_30_10.ply
+Step 11: 0.235827 (36%)
+Step 12: 0.22553 (40%)
+Step 13: 0.223526 (43%)
+Step 14: 0.219348 (46%)
+Step 15: 0.214296 (50%)
+Step 16: 0.209237 (53%)
+Step 17: 0.213556 (56%)
+Step 18: 0.233915 (60%)
+Step 19: 0.205951 (63%)
+Step 20: 0.196885 (66%)
+Wrote /home/userchang/OpenSplat/output/hkisland_20_quick_30_20.ply
+Step 21: 0.200594 (70%)
+Step 22: 0.201136 (73%)
+Step 23: 0.197 (76%)
+Step 24: 0.193663 (80%)
+Step 25: 0.189361 (83%)
+Step 26: 0.206027 (86%)
+Step 27: 0.183007 (90%)
+Step 28: 0.185753 (93%)
+Step 29: 0.183587 (96%)
+Step 30: 0.177238 (100%)
+Wrote /home/userchang/OpenSplat/output/hkisland_20_quick_30_30.ply
+Wrote /home/userchang/OpenSplat/output/cameras.json
+Wrote /home/userchang/OpenSplat/output/hkisland_20_quick_30.ply

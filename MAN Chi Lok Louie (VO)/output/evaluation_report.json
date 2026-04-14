@@ -1,0 +1,52 @@
+{
+    "evaluation_summary": {
+        "dataset": "AMtown02",
+        "source": "MARS-LVIG / UAVScenes",
+        "total_images": 7499,
+        "keyframes_output": 578,
+        "ground_truth_poses": 3750,
+        "matched_poses": 3535,
+        "association_rate": 53.0,
+        "trajectory_length_m": 4891.333396717373,
+        "duration_s": 749.91
+    },
+    "metrics": {
+        "ate": {
+            "rmse": 2.906494023048328,
+            "mean": 2.640428842875468,
+            "median": 2.452567015316328,
+            "std": 1.2148428012409553,
+            "min": 0.41980826146762523,
+            "max": 12.521220015002097,
+            "unit": "meters"
+        },
+        "rpe": {
+            "trans_rmse": 15.05688166546757,
+            "trans_mean": 12.820904392409915,
+            "trans_median": 13.025791771949528,
+            "trans_std": 7.895194490864529,
+            "delta_frames": 10,
+            "unit": "meters"
+        },
+        "scale_error": {
+            "scale_ratio": 1,
+            "scale_drift_percent": 1430,
+            "unit": "percentage"
+        }
+    },
+    "alignment": {
+        "method": "Sim(3)",
+        "estimated_scale": 14.304133685260755,
+        "translation": [-2.95181972 -0.41600864 15.3305147]
+    },
+    "baseline_config": {
+        "framework": "ORB-SLAM3",
+        "mode": "Monocular Visual Odometry",
+        "nFeatures": 15000,
+        "nLevels": 15,
+        "scaleFactor": 1.32,
+        "iniThFAST": 15,
+        "minThFAST": 5
+    }
+}
+
